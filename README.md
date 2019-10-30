@@ -1,9 +1,9 @@
 # GMAT
 
 ### Schedule
-10/21   Register completed   
-10/29   Start preview RC   
-11/6    DonzGMAT 5周培訓班 開始   
+- 10/21   Register completed   
+- 10/29   Start preview RC   
+- 11/6    DonzGMAT 5周培訓班 開始   
 
 ### 參考心得
 1. [法國高等商學院/一戰109/二戰680](https://tingtinghsiao.pixnet.net/blog/post/184860135)   
