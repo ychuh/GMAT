@@ -1,8 +1,10 @@
 # GMAT
 
-> (1) 可以完整理解題意，且CR在40秒內讀懂passage，RC在2-2.5分鐘內讀懂passage者：請為自己規劃1.5-2個月之後的考試。
+# Tips
 
-> (2) 無法完整理解題意，或CR讀懂passage需40秒以上，RC讀懂passage需2.5分鐘以上者：請為自己規劃2-2.5個月之後的考試。
+> 可以完整理解題意，且CR在40秒內讀懂passage，RC在2-2.5分鐘內讀懂passage者：請為自己規劃1.5-2個月之後的考試；無法完整理解題意，或CR讀懂passage需40秒以上，RC讀懂passage需2.5分鐘以上者：請為自己規劃2-2.5個月之後的考試。
+
+> 前十題每題最多不能超過兩分鐘。前十題平均超過兩分鐘，後面一定崩盤。(http://dustingmat.blogspot.com/2017/04/gmat_15.html)
 
 # Schedule
 - 10/21 Register completed   
