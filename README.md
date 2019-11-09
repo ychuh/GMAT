@@ -1,5 +1,14 @@
 # GMAT
 
+# Introduction
+ - AWA (Analytical Writing Assessment): 6/6, 1 argument / 30mins
+ - IR (Integrated Reasoning): 8/8, 12 questions / 30 mins
+ - Q (Quantitative): 51/51, 31 questions / 62 mins
+ - V (Verbal): 51/51, 36 questions / 65 mins 
+   - SC (Sentence Correction): *The most important*
+   - CR (Critical Reasoning)
+   - RC (Reasoning Comprehension)
+
 # Tips
 
 > 可以完整理解題意，且CR在40秒內讀懂passage，RC在2-2.5分鐘內讀懂passage者：請為自己規劃1.5-2個月之後的考試；無法完整理解題意，或CR讀懂passage需40秒以上，RC讀懂passage需2.5分鐘以上者：請為自己規劃2-2.5個月之後的考試。
