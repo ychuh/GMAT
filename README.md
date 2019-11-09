@@ -11,7 +11,7 @@
 
 # Tips
 
-> Target: SC：1-1.5 min。 CR：1.5-2 min。RC：6-8 min（題組）。
+> Target: SC(1-1.5 min); CR(1.5-2 min); RC(6-8 min)
 
 > 可以完整理解題意，且CR在40秒內讀懂passage，RC在2-2.5分鐘內讀懂passage者：請為自己規劃1.5-2個月之後的考試；無法完整理解題意，或CR讀懂passage需40秒以上，RC讀懂passage需2.5分鐘以上者：請為自己規劃2-2.5個月之後的考試。
 
