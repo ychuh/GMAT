@@ -31,3 +31,8 @@
 2. Prep: 由GMAT官方提供兩套免費完整模擬考，考生都可以在GMAT官網下載到該軟體，建議考友們用這套軟體模擬真實考試。   
 3. GWD: 據說是由對岸管衛東先生所編的GMAT套題，這組題庫非常龐大，很適合想靠題海戰術及打發時間練筆的考友。   
 4. 曼哈頓: 由曼哈頓考試網付費得到的六組套題，原價49美金，期限可使用一年。六套做完後會重新洗牌重組題目。
+
+# Sentence Correction
+- Subject - Verb Agreement (主動詞一致)
+- And (Plural) V.S. Additive Phrases
+  - Additive: along with, in addition to, as well as, accompanied by, together with, including
